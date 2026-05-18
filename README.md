@@ -17,6 +17,10 @@ Type any command in chat during the vote window. Aliases work too.
 | `buy9` | `b9` | Buy item in shop slot 9 |
 | `buy10` | `b10` | Buy item in shop slot 10 |
 | `buymid` | `bm` | Buy the center item in a 3-item shop |
+| `mll` |  | Buy centered shop slot 2 left of middle |
+| `ml` |  | Buy centered shop slot 1 left of middle |
+| `mr` |  | Buy centered shop slot 1 right of middle |
+| `mrr` |  | Buy centered shop slot 2 right of middle |
 
 
 ## Board Slots
