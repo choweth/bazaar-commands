@@ -76,6 +76,22 @@ Type any command in chat during the vote window. Aliases work too.
 | `skip` |  | Do nothing this round |
 
 
+## Upgrades / Enchants
+
+| Command | Aliases | Description |
+|---|---|---|
+| `upgrade1` | `u1` | Drag board slot 1 to the upgrade/enchant pedestal |
+| `upgrade2` | `u2` | Drag board slot 2 to the upgrade/enchant pedestal |
+| `upgrade3` | `u3` | Drag board slot 3 to the upgrade/enchant pedestal |
+| `upgrade4` | `u4` | Drag board slot 4 to the upgrade/enchant pedestal |
+| `upgrade5` | `u5` | Drag board slot 5 to the upgrade/enchant pedestal |
+| `upgrade6` | `u6` | Drag board slot 6 to the upgrade/enchant pedestal |
+| `upgrade7` | `u7` | Drag board slot 7 to the upgrade/enchant pedestal |
+| `upgrade8` | `u8` | Drag board slot 8 to the upgrade/enchant pedestal |
+| `upgrade9` | `u9` | Drag board slot 9 to the upgrade/enchant pedestal |
+| `upgrade10` | `u10` | Drag board slot 10 to the upgrade/enchant pedestal |
+
+
 ## Game Mechanics
 
 | Command | Aliases | Description |
@@ -86,3 +102,12 @@ Type any command in chat during the vote window. Aliases work too.
 | `recap` |  | View the round recap |
 | `replay` |  | Replay the last round |
 | `leave` | `next` | Leave the current encounter |
+
+
+## Custom
+
+| Command | Aliases | Description |
+|---|---|---|
+| `right` |  |  |
+| `left` |  |  |
+| `reset` |  |  |
