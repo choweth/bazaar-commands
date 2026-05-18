@@ -101,20 +101,14 @@ Type any command in chat during the vote window. Aliases work too.
 | Command | Aliases | Description |
 |---|---|---|
 | `os` | `inv`, `inventory`, `stash` | Open or close the stash |
-| `mid` | `middle` | Click the center slot (3-item shops only) |
+| `mid` | `middle` | Click the center slot (3-item shops) or center encounter option |
 | `continue` |  | Continue to the next phase |
 | `recap` |  | View the round recap |
 | `replay` |  | Replay the last round |
 | `leave` | `next` | Leave the current encounter |
-
-
-## Custom
-
-| Command | Aliases | Description |
-|---|---|---|
-| `right` |  |  |
-| `left` |  |  |
-| `reset` |  |  |
+| `left` |  | Select the left encounter option |
+| `right` |  | Select the right encounter option |
+| `reset` |  | Move mouse to neutral/reset position |
 
 ## Move Items
 
