@@ -80,6 +80,49 @@ Type any command in chat during the vote window. Aliases work too.
 | `skip` |  | Do nothing this round |
 
 
+## Hover Board
+
+| Command | Aliases | Description |
+|---|---|---|
+| `hb1` |  | Hover over board slot 1 to view item description |
+| `hb2` |  | Hover over board slot 2 to view item description |
+| `hb3` |  | Hover over board slot 3 to view item description |
+| `hb4` |  | Hover over board slot 4 to view item description |
+| `hb5` |  | Hover over board slot 5 to view item description |
+| `hb6` |  | Hover over board slot 6 to view item description |
+| `hb7` |  | Hover over board slot 7 to view item description |
+| `hb8` |  | Hover over board slot 8 to view item description |
+| `hb9` |  | Hover over board slot 9 to view item description |
+| `hb10` |  | Hover over board slot 10 to view item description |
+
+
+## Hover Stash
+
+| Command | Aliases | Description |
+|---|---|---|
+| `hs1` |  | Hover over stash slot 1 to view item description |
+| `hs2` |  | Hover over stash slot 2 to view item description |
+| `hs3` |  | Hover over stash slot 3 to view item description |
+| `hs4` |  | Hover over stash slot 4 to view item description |
+| `hs5` |  | Hover over stash slot 5 to view item description |
+| `hs6` |  | Hover over stash slot 6 to view item description |
+| `hs7` |  | Hover over stash slot 7 to view item description |
+| `hs8` |  | Hover over stash slot 8 to view item description |
+| `hs9` |  | Hover over stash slot 9 to view item description |
+| `hs10` |  | Hover over stash slot 10 to view item description |
+
+
+## Hover Centered
+
+| Command | Aliases | Description |
+|---|---|---|
+| `hmll` |  | Hover over centered shop slot 2 left of middle |
+| `hml` |  | Hover over centered shop slot 1 left of middle |
+| `hmm` |  | Hover over centered shop middle slot |
+| `hmr` |  | Hover over centered shop slot 1 right of middle |
+| `hmrr` |  | Hover over centered shop slot 2 right of middle |
+
+
 ## Upgrades / Enchants
 
 | Command | Aliases | Description |
@@ -101,8 +144,8 @@ Type any command in chat during the vote window. Aliases work too.
 | Command | Aliases | Description |
 |---|---|---|
 | `os` | `inv`, `inventory`, `stash` | Open or close the stash |
-| `mid` | `middle` | Click the center slot (3-item shops) or center encounter option |
-| `continue` |  | Continue to the next phase |
+| `mid` | `middle`, `mm` | Click the center slot (3-item shops) or center encounter option |
+| `continue` | `back` | Continue to the next phase |
 | `recap` |  | View the round recap |
 | `replay` |  | Replay the last round |
 | `leave` | `next` | Leave the current encounter |
