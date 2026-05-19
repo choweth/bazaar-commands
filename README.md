@@ -127,16 +127,16 @@ Type any command in chat during the vote window. Aliases work too.
 
 | Command | Aliases | Description |
 |---|---|---|
-| `upgrade1` | `u1` | Drag board slot 1 to the upgrade/enchant pedestal |
-| `upgrade2` | `u2` | Drag board slot 2 to the upgrade/enchant pedestal |
-| `upgrade3` | `u3` | Drag board slot 3 to the upgrade/enchant pedestal |
-| `upgrade4` | `u4` | Drag board slot 4 to the upgrade/enchant pedestal |
-| `upgrade5` | `u5` | Drag board slot 5 to the upgrade/enchant pedestal |
-| `upgrade6` | `u6` | Drag board slot 6 to the upgrade/enchant pedestal |
-| `upgrade7` | `u7` | Drag board slot 7 to the upgrade/enchant pedestal |
-| `upgrade8` | `u8` | Drag board slot 8 to the upgrade/enchant pedestal |
-| `upgrade9` | `u9` | Drag board slot 9 to the upgrade/enchant pedestal |
-| `upgrade10` | `u10` | Drag board slot 10 to the upgrade/enchant pedestal |
+| `upgrade1` | `e1`, `enchant1`, `u1` | Drag board slot 1 to the upgrade/enchant pedestal |
+| `upgrade2` | `e2`, `enchant2`, `u2` | Drag board slot 2 to the upgrade/enchant pedestal |
+| `upgrade3` | `e3`, `enchant3`, `u3` | Drag board slot 3 to the upgrade/enchant pedestal |
+| `upgrade4` | `e4`, `enchant4`, `u4` | Drag board slot 4 to the upgrade/enchant pedestal |
+| `upgrade5` | `e5`, `enchant5`, `u5` | Drag board slot 5 to the upgrade/enchant pedestal |
+| `upgrade6` | `e6`, `enchant6`, `u6` | Drag board slot 6 to the upgrade/enchant pedestal |
+| `upgrade7` | `e7`, `enchant7`, `u7` | Drag board slot 7 to the upgrade/enchant pedestal |
+| `upgrade8` | `e8`, `enchant8`, `u8` | Drag board slot 8 to the upgrade/enchant pedestal |
+| `upgrade9` | `e9`, `enchant9`, `u9` | Drag board slot 9 to the upgrade/enchant pedestal |
+| `upgrade10` | `e10`, `enchant10`, `u10` | Drag board slot 10 to the upgrade/enchant pedestal |
 
 
 ## Game Mechanics
@@ -151,6 +151,11 @@ Type any command in chat during the vote window. Aliases work too.
 | `leave` | `next` | Leave the current encounter |
 | `left` | `l` | Select the left encounter option |
 | `right` | `r` | Select the right encounter option |
+| `farleft` | `fl` | Select the far left encounter option |
+| `farright` | `fr` | Select the far right encounter option |
+| `play` | `go`, `resume`, `start` | Click the Play / Start / Resume button |
+| `end` | `finish` | Click the Continue button at the end of a run |
+| `spinthewheel` | `spin`, `stw` | Spin the wheel |
 | `reset` |  | Move mouse to neutral/reset position |
 
 ## Move Items
