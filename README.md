@@ -149,8 +149,8 @@ Type any command in chat during the vote window. Aliases work too.
 | `recap` |  | View the round recap |
 | `replay` |  | Replay the last round |
 | `leave` | `next` | Leave the current encounter |
-| `left` |  | Select the left encounter option |
-| `right` |  | Select the right encounter option |
+| `left` | `l` | Select the left encounter option |
+| `right` | `r` | Select the right encounter option |
 | `reset` |  | Move mouse to neutral/reset position |
 
 ## Move Items
