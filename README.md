@@ -144,11 +144,10 @@ Type any command in chat during the vote window. Aliases work too.
 | Command | Aliases | Description |
 |---|---|---|
 | `os` | `inv`, `inventory`, `stash` | Open or close the stash |
-| `mid` | `middle`, `mm` | Click the center slot (3-item shops) or center encounter option |
-| `continue` | `back` | Continue to the next phase |
+| `mid` | `fight`, `middle`, `mm` | Click the center slot (3-item shops) or center encounter option |
+| `continue` | `back`, `leave`, `next` | Continue / leave the current encounter |
 | `recap` |  | View the round recap |
 | `replay` |  | Replay the last round |
-| `leave` | `next` | Leave the current encounter |
 | `left` | `l` | Select the left encounter option |
 | `right` | `r` | Select the right encounter option |
 | `farleft` | `fl` | Select the far left encounter option |
