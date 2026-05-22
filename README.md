@@ -16,11 +16,11 @@ Type any command in chat during the vote window. Aliases work too.
 | `buy8` | `b8` | Buy item in shop slot 8 |
 | `buy9` | `b9` | Buy item in shop slot 9 |
 | `buy10` | `b10` | Buy item in shop slot 10 |
-| `buymid` | `bm` | Buy the center item in a 3-item shop |
-| `mll` |  | Buy centered shop slot 2 left of middle |
-| `ml` |  | Buy centered shop slot 1 left of middle |
-| `mr` |  | Buy centered shop slot 1 right of middle |
-| `mrr` |  | Buy centered shop slot 2 right of middle |
+| `buymid` | `bm`, `bmm` | Buy the center item in a 3-item shop |
+| `mll` | `bmll` | Buy centered shop slot 2 left of middle |
+| `ml` | `bml` | Buy centered shop slot 1 left of middle |
+| `mr` | `bmr` | Buy centered shop slot 1 right of middle |
+| `mrr` | `bmrr` | Buy centered shop slot 2 right of middle |
 
 
 ## Board Slots
