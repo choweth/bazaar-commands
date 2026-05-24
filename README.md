@@ -6,16 +6,16 @@ Type any command in chat during the vote window. Aliases work too.
 
 | Command | Aliases | Description |
 |---|---|---|
-| `buy1` | `b1` | Buy item in shop slot 1 |
-| `buy2` | `b2` | Buy item in shop slot 2 |
-| `buy3` | `b3` | Buy item in shop slot 3 |
-| `buy4` | `b4` | Buy item in shop slot 4 |
-| `buy5` | `b5` | Buy item in shop slot 5 |
-| `buy6` | `b6` | Buy item in shop slot 6 |
-| `buy7` | `b7` | Buy item in shop slot 7 |
-| `buy8` | `b8` | Buy item in shop slot 8 |
-| `buy9` | `b9` | Buy item in shop slot 9 |
-| `buy10` | `b10` | Buy item in shop slot 10 |
+| `buy1` | `b1`, `s1` | Buy item in shop slot 1 |
+| `buy2` | `b2`, `s2` | Buy item in shop slot 2 |
+| `buy3` | `b3`, `s3` | Buy item in shop slot 3 |
+| `buy4` | `b4`, `s4` | Buy item in shop slot 4 |
+| `buy5` | `b5`, `s5` | Buy item in shop slot 5 |
+| `buy6` | `b6`, `s6` | Buy item in shop slot 6 |
+| `buy7` | `b7`, `s7` | Buy item in shop slot 7 |
+| `buy8` | `b8`, `s8` | Buy item in shop slot 8 |
+| `buy9` | `b9`, `s9` | Buy item in shop slot 9 |
+| `buy10` | `b10`, `s10` | Buy item in shop slot 10 |
 | `buymid` | `bm`, `bmm` | Buy the center item in a 3-item shop |
 | `mll` | `bmll` | Buy centered shop slot 2 left of middle |
 | `ml` | `bml` | Buy centered shop slot 1 left of middle |
@@ -27,16 +27,16 @@ Type any command in chat during the vote window. Aliases work too.
 
 | Command | Aliases | Description |
 |---|---|---|
-| `slot1` | `s1` | Select board slot 1 |
-| `slot2` | `s2` | Select board slot 2 |
-| `slot3` | `s3` | Select board slot 3 |
-| `slot4` | `s4` | Select board slot 4 |
-| `slot5` | `s5` | Select board slot 5 |
-| `slot6` | `s6` | Select board slot 6 |
-| `slot7` | `s7` | Select board slot 7 |
-| `slot8` | `s8` | Select board slot 8 |
-| `slot9` | `s9` | Select board slot 9 |
-| `slot10` | `s10` | Select board slot 10 |
+| `slot1` |  | Select board slot 1 |
+| `slot2` |  | Select board slot 2 |
+| `slot3` |  | Select board slot 3 |
+| `slot4` |  | Select board slot 4 |
+| `slot5` |  | Select board slot 5 |
+| `slot6` |  | Select board slot 6 |
+| `slot7` |  | Select board slot 7 |
+| `slot8` |  | Select board slot 8 |
+| `slot9` |  | Select board slot 9 |
+| `slot10` |  | Select board slot 10 |
 
 
 ## Sell from Board
@@ -75,7 +75,7 @@ Type any command in chat during the vote window. Aliases work too.
 
 | Command | Aliases | Description |
 |---|---|---|
-| `reroll` | `rr` | Reroll the shop |
+| `reroll` | `roll`, `rr` | Reroll the shop |
 | `enchant` |  | Open the enchant menu |
 | `skip` |  | Do nothing this round |
 
@@ -144,7 +144,7 @@ Type any command in chat during the vote window. Aliases work too.
 | Command | Aliases | Description |
 |---|---|---|
 | `os` | `inv`, `inventory`, `stash` | Open or close the stash |
-| `mid` | `fight`, `middle`, `mm` | Click the center slot (3-item shops) or center encounter option |
+| `mid` | `fight`, `m`, `middle`, `mm` | Click the center slot (3-item shops) or center encounter option |
 | `continue` | `back`, `leave`, `next` | Continue / leave the current encounter |
 | `recap` |  | View the round recap |
 | `replay` |  | Replay the last round |
