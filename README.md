@@ -145,7 +145,7 @@ Type any command in chat during the vote window. Aliases work too.
 |---|---|---|
 | `os` | `inv`, `inventory`, `stash` | Open or close the stash |
 | `mid` | `fight`, `m`, `middle`, `mm` | Click the center slot (3-item shops) or center encounter option |
-| `continue` | `back`, `leave`, `next` | Continue / leave the current encounter |
+| `continue` | `back`, `con`, `leave`, `next` | Continue / leave the current encounter |
 | `recap` |  | View the round recap |
 | `replay` |  | Replay the last round |
 | `left` | `l` | Select the left encounter option |
