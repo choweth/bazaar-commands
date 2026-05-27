@@ -118,7 +118,7 @@ Type any command in chat during the vote window. Aliases work too.
 |---|---|---|
 | `hmll` |  | Hover over centered shop slot 2 left of middle |
 | `hml` |  | Hover over centered shop slot 1 left of middle |
-| `hmm` |  | Hover over centered shop middle slot |
+| `hmm` | `hm` | Hover over centered shop middle slot |
 | `hmr` |  | Hover over centered shop slot 1 right of middle |
 | `hmrr` |  | Hover over centered shop slot 2 right of middle |
 
@@ -143,8 +143,9 @@ Type any command in chat during the vote window. Aliases work too.
 
 | Command | Aliases | Description |
 |---|---|---|
-| `os` | `inv`, `inventory`, `stash` | Open or close the stash |
-| `mid` | `fight`, `m`, `middle`, `mm` | Click the center slot (3-item shops) or center encounter option |
+| `os` | `inv`, `inventory`, `s`, `stash` | Open or close the stash |
+| `mid` | `m`, `middle`, `mm` | Click the center slot (3-item shops) or center encounter option |
+| `fight` |  | Click the center encounter option (hides overlay during the fight) |
 | `continue` | `back`, `con`, `leave`, `next` | Continue / leave the current encounter |
 | `recap` |  | View the round recap |
 | `replay` |  | Replay the last round |
@@ -163,11 +164,14 @@ Drag any item between board and stash slots in a single command.
 
 Syntax: `m` + source type (`b`=board, `s`=stash) + source slot + dest type + dest slot
 
+Use `s` as the destination (no number) to drag to the stash button.
+
 | Example | Description |
 |---|---|
 | `mb1b3` | Move board slot 1 to board slot 3 |
 | `ms2b5` | Move stash slot 2 to board slot 5 |
 | `mb4s1` | Move board slot 4 to stash slot 1 |
 | `ms1s6` | Move stash slot 1 to stash slot 6 |
+| `mb1s` | Move board slot 1 to the stash button (open stash) |
 
 Slots 1-10 are valid for both board and stash.
